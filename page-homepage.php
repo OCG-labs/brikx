@@ -6,6 +6,7 @@
 * @since 1.0
 * @author Matthew Hansen & Bryan Haskin
 * Template Name: page-homepage
+* Simple Fields Connector: home_page_connector
 */
 
 get_header('home'); ?>

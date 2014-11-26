@@ -4,3 +4,6 @@
 [submodule "lib/modules/core"]
 	path = lib/modules/core
 	url = https://github.com/OCG-labs/core-module.git
+[submodule "lib/modules/options"]
+	path = lib/modules/options
+	url = https://github.com/OCG-labs/options-module.git
