@@ -5,9 +5,10 @@
 * @subpackage Brikx
 * @since 1.0
 * @author Matthew Hansen & Bryan Haskin
+* Template Name: page-homepage
 */
 
-get_header(); ?>
+get_header('home'); ?>
 
 
 <?php
@@ -43,4 +44,6 @@ else : ?>
 <?php
 endif; ?>
 
-<?php get_footer(); ?>
+
+<?php
+get_footer(); ?>

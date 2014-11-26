@@ -10,7 +10,7 @@
 
 function brikxFunctions() {
   require_once dirname( __FILE__ ) . '/lib/modules/loader.php'; // Loader
-  $masterControl = brikx\MasterControl::getInstance();
+  $masterControl = oneTheme\MasterControl::getInstance();
 }
 
 add_action( 'after_setup_theme', 'brikxFunctions', 9 );
